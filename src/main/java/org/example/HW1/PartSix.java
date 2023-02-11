@@ -1,7 +1,7 @@
 package org.example.HW1;
 
 public class PartSix {
-    public static void main(String[] argc)
+    public static void main(String[] args)
     {
         for(int i=1;i<=10;i++)
         {

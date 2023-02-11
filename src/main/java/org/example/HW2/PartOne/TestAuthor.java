@@ -3,7 +3,7 @@ package org.example.HW2.PartOne;
 import java.util.Scanner;
 
 public class TestAuthor {
-    public static void main(String[] argc)
+    public static void main(String[] args)
     {
         String name = "Author", email = "author@mail.com";
         char gender = 'm';

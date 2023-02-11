@@ -3,7 +3,7 @@ package org.example.HW1;
 import java.util.Scanner;
 
 public class PartFour {
-    public static void main(String[] argc)
+    public static void main(String[] args)
     {
         int n;
         Scanner scanner = new Scanner(System.in);

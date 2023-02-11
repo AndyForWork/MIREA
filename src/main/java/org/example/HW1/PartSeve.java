@@ -3,7 +3,7 @@ package org.example.HW1;
 import java.util.Scanner;
 
 public class PartSeve {
-    public static void main(String[] argc)
+    public static void main(String[] args)
     {
         System.out.print("enter an integet: ");
         int n;

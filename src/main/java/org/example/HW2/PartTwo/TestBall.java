@@ -3,7 +3,7 @@ package org.example.HW2.PartTwo;
 import java.util.Scanner;
 
 public class TestBall {
-    public static void main(String[] argc)
+    public static void main(String[] args)
     {
         Ball ball = new Ball();
         System.out.println("ball created: " + ball);
