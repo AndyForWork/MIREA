@@ -1,4 +1,4 @@
-package org.example.HW2.PartSix.PartTen;
+package org.example.HW2.PartTen;
 
 public class HowMany {
     public static void main(String[] args) {
